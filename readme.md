@@ -1,0 +1,1 @@
+in this attempt we are going to make a cooking site with recpies and photos and update the stages in git every time we do something meaningful
